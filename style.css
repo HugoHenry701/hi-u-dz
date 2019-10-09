@@ -1,0 +1,14 @@
+p{color:red}
+.d1{color: seagreen;
+ font-size: 4em;
+
+} 
+#hiếu {
+    font-size: 4em;
+    font-weight: 900;
+    display: block;
+}
+body{
+    background: url('https://images2.sw-cdn.net/product/picture/710x528_16903641_9875628_1481589299.jpg')no-repeat center;
+    background-size: cover;
+}
